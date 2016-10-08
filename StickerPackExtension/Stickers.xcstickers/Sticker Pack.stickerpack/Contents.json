@@ -1,0 +1,98 @@
+{
+  "stickers" : [
+    {
+      "filename" : "LOVE.sticker"
+    },
+    {
+      "filename" : "NO-WAY.sticker"
+    },
+    {
+      "filename" : "RAD.sticker"
+    },
+    {
+      "filename" : "SWEET.sticker"
+    },
+    {
+      "filename" : "YEAH-MAD.sticker"
+    },
+    {
+      "filename" : "YEAH.sticker"
+    },
+    {
+      "filename" : "YES.sticker"
+    },
+    {
+      "filename" : "YIEW.sticker"
+    },
+    {
+      "filename" : "IGUESS.sticker"
+    },
+    {
+      "filename" : "UMM.sticker"
+    },
+    {
+      "filename" : "LOVETHIS.sticker"
+    },
+    {
+      "filename" : "ALLRIGHT.sticker"
+    },
+    {
+      "filename" : "SICK.sticker"
+    },
+    {
+      "filename" : "TRUE.sticker"
+    },
+    {
+      "filename" : "HECKYEAH.sticker"
+    },
+    {
+      "filename" : "SOMUCHYES.sticker"
+    },
+    {
+      "filename" : "OMG.sticker"
+    },
+    {
+      "filename" : "OKAY.sticker"
+    },
+    {
+      "filename" : "SURE.sticker"
+    },
+    {
+      "filename" : "ARGH.sticker"
+    },
+    {
+      "filename" : "NAH.sticker"
+    },
+    {
+      "filename" : "HATEIT.sticker"
+    },
+    {
+      "filename" : "WHAT.sticker"
+    },
+    {
+      "filename" : "NOPE.sticker"
+    },
+    {
+      "filename" : "YEP.sticker"
+    },
+    {
+      "filename" : "WOW.sticker"
+    },
+    {
+      "filename" : "SHIVERS.sticker"
+    },
+    {
+      "filename" : "DAMNIT.sticker"
+    },
+    {
+      "filename" : "GETSTUFFED.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
